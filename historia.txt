@@ -1,4 +1,4 @@
-Esta es la historia de Jonathan García.
+﻿Esta es la historia de Jonathan García.
 
 Jonathan García tiene 23 años, nacio en Costa Rica
 Y vivirá por el mundo.
@@ -7,3 +7,5 @@ Hoy hablaremos de su vida.
 
 Jonathan cambiara el mundo algún día.
 Pero falta tiempo para eso.
+
+Hola, soy David y estoy emocionado de trabajar en este proyecto.
